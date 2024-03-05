@@ -1,0 +1,9 @@
+{
+  "name": "grigorjan-games-global-qa-assessment",
+  "version": "1.0.0",
+  "author": "Gregor Grigorjan",
+  "dependencies": {
+    "newman": "^6.1.1",
+    "newman-reporter-htmlextra": "^1.23.0"
+  }
+}
